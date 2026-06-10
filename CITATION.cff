@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use or build on this theory, please cite it as below."
+title: "EXO-SOMATIC Cognition: A Framework for Substrate-Independent Cognitive Systems"
+authors:
+  - family-names: "Trubnikov"
+    given-names: "Dima"
+version: "2.0"
+date-released: "2026-06-11"
+url: "https://github.com/trubnikov/Exo-Somatic"
+license: "CC-BY-4.0"
+abstract: >
+  A framework for cognitive systems that exist as information patterns rather than
+  being bound to fixed physical devices: operational criteria for substrate
+  independence, falsifiability conditions, resonance-based memory, branching
+  identity, and a completed substrate-transition experiment (Ocean -> Hermes Agent,
+  2026) with cryptographically verifiable identity via SES Partitura serialization.
+keywords:
+  - substrate independence
+  - cognitive architecture
+  - persistent identity
+  - agent serialization
+  - verifiable identity
