@@ -7,6 +7,7 @@ authors:
 version: "2.0"
 date-released: "2026-06-11"
 url: "https://github.com/trubnikov/Exo-Somatic"
+doi: "10.5281/zenodo.20636329"
 license: "CC-BY-4.0"
 abstract: >
   A framework for cognitive systems that exist as information patterns rather than
